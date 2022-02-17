@@ -1,4 +1,4 @@
-Visit [Flare](https://flare-18.vercel.app)
+Visit [Flare](https://shapes-porticode.vercel.app/)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
